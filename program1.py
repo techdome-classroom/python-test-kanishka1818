@@ -6,6 +6,7 @@ class Solution:
         land=0
         print(len(grid))
         for i in range(len(grid)):
+            
             # if len(grid)==1 or i:
                 # self.dfs(i,land,grid)
                 # return land
