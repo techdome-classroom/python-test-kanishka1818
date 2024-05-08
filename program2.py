@@ -13,5 +13,6 @@ def decode_message( s: str, p: str) -> bool:
                           n= n+1
                     else:
                           break
-                      
+
+                if n=      
         return False
