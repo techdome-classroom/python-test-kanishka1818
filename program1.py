@@ -4,12 +4,12 @@ class Solution:
     #    write your code here
     
         land=0
-        grid = [
-              ["L","L","W","W","W"],
-              ["L","L","W","W","W"],
-              ["W","W","L","W","W"],
-              ["W","W","W","L","L"],
-              ]
+        # grid = [
+        #       ["L","L","W","W","W"],
+        #       ["L","L","W","W","W"],
+        #       ["W","W","L","W","W"],
+        #       ["W","W","W","L","L"],
+        #       ]
         print(len(grid))
         for i in range(len(grid)):
 
