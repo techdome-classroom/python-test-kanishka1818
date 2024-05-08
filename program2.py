@@ -12,6 +12,6 @@ def decode_message( s: str, p: str) -> bool:
                     if (p[i]== s[i] or p[i]=='?'):
                           n= n+1
                     else:
-                          return False
+                          break
                       
         return False
