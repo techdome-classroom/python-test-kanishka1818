@@ -6,7 +6,6 @@ class Solution:
         land=0
 
         for i in range(len(grid)):
-            
-            if 
+            if len(grid)==1 or i 
                     
         return 0
