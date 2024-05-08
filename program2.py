@@ -9,6 +9,6 @@ def decode_message( s: str, p: str) -> bool:
         
         else:
                 for i in range(len(s)):
-                    if (p[]):
+                    if (p[i]):
   
         return False
