@@ -15,5 +15,5 @@ def decode_message( s: str, p: str) -> bool:
                           break
 
                 if n ==len(s):
-                      return False     
+                      return True     
         return False
