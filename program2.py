@@ -6,7 +6,6 @@ def decode_message( s: str, p: str) -> bool:
         
         if len(s)!=len(p) :
 
-
                 for i in range(len(s)):
                     if (s[i]=)
   
