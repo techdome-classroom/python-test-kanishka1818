@@ -10,7 +10,7 @@ def decode_message( s: str, p: str) -> bool:
         else:
                 for i in range(len(s)):
                     if (p[i]== s[i] or p[i]=='?'):
-                          return True
+                          n= n+1
                     else:
                           return False
                       
