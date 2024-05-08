@@ -4,6 +4,6 @@ class Solution:
     #    write your code here
         land=0
         for i in range(len(grid)):
-            
+            if 
                     
         return 0
