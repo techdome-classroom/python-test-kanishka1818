@@ -7,6 +7,7 @@ class Solution:
         print(len(grid))
         for i in range(len(grid)):
             if len(grid)==1 or i:
+                return 0
 
                     
         return 0
